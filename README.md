@@ -1,62 +1,52 @@
-# Ahmed Kamal - Mobile Developer 👨‍💻
+# Ahmed Kamal - React Developer 👨‍💻
 
 ## Introduction 🚀
-Hey there! I'm Ahmed Kamal, a passionate software engineer specializing in cross-platform mobile development. With a knack for technology and a dash of creativity, I bring a unique blend of technical expertise and innovation to every project.
+Hey there! I'm Ahmed Kamal, a passionate software engineer specializing in React Native and React JS development. With a blend of technical expertise and creativity, I bring innovation to every project.
 
-## GitHub 📁
-Explore my contributions at Fawry on GitHub: [Fawry GitHub](https://github.com/AhmedK-Fawry)
 
-### npm Packages 📦
+## Current Role 💼
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxvlXr4p8knQvkuzNbG1-gdItKO4M5F3RJLw&s" alt="Noon Logo" width="25" style="border-radius: 50%;"/> Software Engineer at Noon, contributing to exciting projects and expanding my skills.
 
-- [FawryPay Anonymous SDK](https://www.npmjs.com/package/@fawry_pay/rn-fawry-pay-sdk): 🛒 Enables React Native developers to integrate secure payment gateways into their apps, offering flexible payment options like reference numbers or credit cards for a seamless checkout experience.
+## Past Experience 🏢
+<img src="https://asset.brandfetch.io/idW_Kii4-n/idge4bG7w_.jpeg?updated=1716191745665" alt="Fawry Logo" width="25" style="border-radius: 50%;"/> Ex-Fawry employee, worked on various impactful projects and developed robust payment solutions. Explore my contributions at Fawry [here](https://github.com/AhmedK-Fawry).
 
-- [FawryPay Registered SDK](https://www.npmjs.com/package/@fawry_pay/rn-fawry-pay-registered-sdk): 🔄 Tailored for registered users, this SDK allows React Native developers to integrate FawryPay's payment gateways securely into their apps, ensuring smooth and reliable transactions.
 
-- [Food And Beverages SDK](https://www.npmjs.com/package/@fawry_pay/fawry-food-ordering-sdk): 🍔 Simplifies integration of food-related transactions with Fawry's ecosystem for React Native developers. Developed natively on iOS (Swift) and Android (Kotlin), it ensures a seamless food ordering and payment process within apps.
 
-### Flutter Packages 📱
+## npm Packages 📦
+- **[FawryPay Anonymous SDK](https://www.npmjs.com/package/@fawry_pay/rn-fawry-pay-sdk)**: Enables React Native developers to integrate secure payment gateways with options like reference numbers or credit cards.
+- **[FawryPay Registered SDK](https://www.npmjs.com/package/@fawry_pay/rn-fawry-pay-registered-sdk)**: Allows registered users to integrate FawryPay's secure payment gateways into React Native apps.
+- **[Food And Beverages SDK](https://www.npmjs.com/package/@fawry_pay/fawry-food-ordering-sdk)**: Simplifies food-related transactions in React Native apps using iOS (Swift) and Android (Kotlin).
 
-- [EMVQR SDK](https://pub.dev/packages/emvqr): 📲 Provides Flutter developers with tools to parse EMV (Europay, Mastercard, and Visa) QR codes, facilitating secure transactions and enhancing payment methods support in applications.
-
-- [Cards NFC Scanning SDK](https://pub.dev/packages/fawry_nfc_sdk): 📶 Offers utilities for writing and scanning electricity, Water and Gas cards using NFC technology in Flutter apps, allowing support to recharge those cards.
-
-- [FawryPay SDK](https://pub.dev/packages/fawry_sdk): 💳 Integrates FawryPay's payment gateways seamlessly into Flutter apps, ensuring a secure and reliable payment experience for customers with support for various payment methods.
+## Flutter Packages 📱
+- **[EMVQR SDK](https://pub.dev/packages/emvqr)**: Tools for Flutter developers to parse EMV QR codes for secure transactions.
+- **[Cards NFC Scanning SDK](https://pub.dev/packages/fawry_nfc_sdk)**: Utilities for writing and scanning electricity, water, and gas cards using NFC in Flutter apps.
+- **[FawryPay SDK](https://pub.dev/packages/fawry_sdk)**: Integrates FawryPay's secure payment gateways into Flutter apps.
 
 ## Contact Information 📞
-- **Phone:** +2 010 32248187
 - **Email:** AKreview22@gmail.com
-- **Location:** Egypt, Cairo
 - **LinkedIn:** [Ahmed Kamal](https://www.linkedin.com/in/ahmed-kamal-66570111b/)
+- **Location:** Cairo, Egypt
 
----
+## Education 🎓
+### Professional Diploma in Cross-Platform Mobile Development
+- **Institution:** Information Technology Institute (ITI)
+- **Duration:** Oct. 2022 - Jun. 2023
+- **Description:** Intensive 9-month program in Cross-Platform Mobile Development with practical experience in Flutter and React Native.
+- **Key Learnings:**
+  - Hands-on experience with cross-platform development frameworks.
+  - Proficiency in modern development tools and practices.
+  - Understanding of mobile application architecture.
+  - Enhanced teamwork and communication skills.
 
-### Academic Formation 🎓
-
-#### **Professional Diploma in Cross-Platform Mobile Development**
-- **Information Technology Institute (ITI), Cross-Platform Mobile Development**
-  - **Duration:** Oct. 2022 - Jun. 2023
-  - **Description:** Completed an intensive 9-month program at the prestigious Information Technology Institute (ITI), specializing in Cross-Platform Mobile Development. Acquired practical experience in utilizing cross-platform technologies to develop software applications for mobile, web, and desktop platforms.
-  - **Key Learnings:**
-    - Hands-on experience with cross-platform development frameworks such as Flutter and React Native.
-    - Proficiency in building scalable and efficient software solutions using modern development tools and practices.
-    - Deep understanding of mobile application architecture, including client-server communication, data storage, and user interface design.
-    - Collaboration with peers on diverse projects, enhancing teamwork and communication skills.
-
-#### **Bachelor's Degree in Computers and Artificial Intelligence**
-- **Helwan University**
-  - **Duration:** 2018 - 2022
-  - **Description:** Graduated with honors from Helwan University with a Bachelor's degree in Computers and Artificial Intelligence. Acquired a comprehensive understanding of computer science fundamentals, algorithms, databases, operations research, and software engineering principles. Notable achievements include leading the development of "New Eden," a machine learning-based graduation project for real estate price prediction in Egypt.
+### Bachelor's Degree in Computers and Artificial Intelligence
+- **Institution:** Helwan University
+- **Duration:** 2018 - 2022
+- **Description:** Graduated with honors, gaining a comprehensive understanding of computer science fundamentals, algorithms, databases, operations research, and software engineering principles.
+- **Notable Achievement:** Led the development of "New Eden," a machine learning-based project for real estate price prediction in Egypt.
 
 ## Tech Content Creation 📹
+- **YouTube:** [/AKreview22](https://www.youtube.com/AKreview22)
+- **Facebook:** [/AKreview22](https://www.facebook.com/AKreview22)
+- **Instagram:** [@AKreview22](https://www.instagram.com/AKreview22)
 
-As a tech content creator, I've had the opportunity to share my love for the tech industry through various platforms. Here's a glimpse into my journey:
-
-- Developed exceptional communication and public speaking skills as a 350K+ follower influencer, resulting in a dynamic and confident presence.
-- Executed successful campaigns with multinational corporations such as Samsung, Huawei, Asus, HP, MSI, OPPO, Honor, Realme, Logitech, Xiaomi, and other industry leaders.
-- Created and implemented content strategies across diverse social media channels.
-- Conducted interviews with national newspapers, participated in radio shows, and traveled internationally for events and meetings, demonstrating an ability to effectively communicate with diverse audiences.
-
-### Follow Me on Social Media:
-- [YouTube](https://www.youtube.com/AKreview22)
-- [Facebook](https://www.facebook.com/AKreview22)
-- [Instagram](https://www.instagram.com/AKreview22)
+As a tech content creator with over 350K followers, I share my love for technology across various platforms. I have collaborated with brands like Samsung, Huawei, Asus, HP, MSI, OPPO, Honor, Realme, Logitech, and Xiaomi. My content strategies, public speaking skills, and dynamic presence have led to successful campaigns and media engagements.
