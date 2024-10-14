@@ -7,8 +7,7 @@ Hey there! I'm Ahmed Kamal, a software engineer who loves diving into React Nati
 ## Current Role 💼
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxvlXr4p8knQvkuzNbG1-gdItKO4M5F3RJLw&s" alt="Noon Logo" width="15" style="border-radius: 50%;"/> **Software Engineer at Noon**  
-Contributing to exciting projects as a Front-End Developer and expanding my skills.
-
+As part of the Noon Minutes team, I work on the mobile app, developing features, fixing bugs, and refactoring components using React Native. I collaborate with designers, backend developers, and QA to ensure a seamless user experience and smooth app performance.
 ## Past Experience 🏢
 
 <img src="https://asset.brandfetch.io/idW_Kii4-n/idge4bG7w_.jpeg?updated=1716191745665" alt="Fawry Logo" width="15" style="border-radius: 50%;"/> **Ex-Software Engineer at Fawry**  
