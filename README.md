@@ -53,9 +53,11 @@ As a tech content creator with over 350K followers, I share my love for technolo
 
 **Follow Me on:**
 
-- **YouTube:** [/AKreview22](https://www.youtube.com/AKreview22)
-- **Facebook:** [/AKreview22](https://www.facebook.com/AKreview22)
-- **Instagram:** [@AKreview22](https://www.instagram.com/AKreview22)
+- **YouTube:** [/JusstKamal](https://www.youtube.com/@JusstKamal)
+- **TikTok:** [@JusstKamal](https://www.tiktok.com/@JusstKamal)
+- **Facebook:** [/JusstKamal](https://www.facebook.com/JusstKamal)
+- **Instagram:** [@JusstKamal](https://www.instagram.com/JusstKamal)
+
 
 ## Explore My Articles on Medium 📝
 
@@ -63,6 +65,6 @@ As a tech content creator with over 350K followers, I share my love for technolo
 
 ## Contact Information 📞
 
-- **Email:** AKreview22@gmail.com
+- **Email:** JusstKamal@gmail.com
 - **LinkedIn:** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="15"/> [Ahmed Kamal](https://www.linkedin.com/in/ahmed-kamal-66570111b/)
 - **Location:** Cairo, Egypt
